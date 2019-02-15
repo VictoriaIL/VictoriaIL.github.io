@@ -1,36 +1,6 @@
 ## Welcome to GitHub Pages
 You can find me [Here](https://github.com/VictoriaIL
 )
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictoriaIL/VictoriaIL.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hello! My name is Victoria. I study in the second year at the Belarusian State University at the Faculty of Radiophysics and Computer Technologies. My specialty: Applied Informatics.
+I don't like to sit around. I constantly improve my skills and learn something new. That's why I decided to study programming, for me it is not just brainwork, but also creativity and an interesting hobby.
